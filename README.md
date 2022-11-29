@@ -3,6 +3,7 @@ Ionic + Capacitor  + Firebase
 
 STEPS
 > npm install
+> 
 > ionic serve
 
 
