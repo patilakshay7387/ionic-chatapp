@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-4806e": {
+      "hosting": {
+        "app": [
+          "fir-4806e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-4806e"
+  }
+}
